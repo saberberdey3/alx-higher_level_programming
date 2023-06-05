@@ -106,7 +106,7 @@ Best School: 98
 
 <h2>Author</h2>
 
-<p>John Doe</p>
+<p>Saber BERDEY</p>
 
 <hr>
 
